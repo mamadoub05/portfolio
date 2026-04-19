@@ -22,6 +22,14 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     live: "https://pray-sync-gbiskutct-mamadou.vercel.app",
     github: "https://github.com/mamadoub05/PraySync"
+  },
+  {
+    id: 4,
+    title: "Weather App",
+    description: "A real-time weather app with city autocomplete, dynamic backgrounds, and live data from the OpenWeatherMap API.",
+    tech: ["React", "REST API", "CSS", "Vite"],
+    live: "https://weather-fmubm35hz-mamadou.vercel.app",
+    github: "https://github.com/mamadoub05/weather-app"
   }
 ]
 
