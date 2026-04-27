@@ -28,7 +28,7 @@ const projects = [
     title: "Weather App",
     description: "A real-time weather app with city autocomplete, dynamic backgrounds, and live data from the OpenWeatherMap API.",
     tech: ["React", "REST API", "CSS", "Vite"],
-    live: "https://weather-fmubm35hz-mamadou.vercel.app",
+    live: "https://weather-app-ten-gilt-33.vercel.app",
     github: "https://github.com/mamadoub05/weather-app"
   }
 ]
